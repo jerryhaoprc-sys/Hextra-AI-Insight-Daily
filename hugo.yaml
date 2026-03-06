@@ -87,7 +87,7 @@ params:
     sameAs:
       - "https://github.com/justlovemaki"
       
-  displayUpdatedDate: true
+  displayUpdatedDate: false
   dateFormat: "2006/01/02 15:04:05"
 
   navbar:
