@@ -4,23 +4,24 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hey there, I'm Hexi 2077 / justlovemaki 👋
 
-> Ten years of coding, cool at the fingertips, yet a fire burns within.
-> Now, hearing the intelligent winds and thunder, I'm ready to fight my battle in the digital skies!
+#### 👋 何夕2077 / justlovemaki
 
-#### My Code Philosophy 💡
+> 十载代码指尖凉，胸中块垒郁未扬。
+> 忽闻智能风雷动，誓向云天搏一场。
 
-> Tech for the people, always! 💖
+#### 🚀 我的代码哲学
 
-#### My Portfolio / Cool Projects ✨
+> 技术为人民服务
 
-*   **[Open Source Contribution / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    *   This bad boy, **AIClient-2-API**, is a powerful API proxy service that *lets you* take client-only large model capabilities (think Gemini CLI, Antigravity, Qwen Code, Kiro, you name it!) and wrap 'em up into local OpenAI-compatible interfaces. Plus, it's got account pool management, smart polling, automatic failover, and system prompt management baked right in. Pretty neat, huh?
-*   **[Open Source Contribution / OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
-    *   Then there's **OpenClaw-Docker-CN-IM**, an integrated Docker image packed with Chinese IM plugins. We're talking pre-installed and pre-configured goodies for all the big players like Feishu, DingTalk, QQ Robot, and WeChat Work. This makes it super easy to spin up multi-platform AI robot gateways in a flash!
-*   Wanna see more cool stuff? Check out my [GitHub](https://github.com/justlovemaki)! 👇
+#### ✨ 代表作
 
-#### What I'm Diving Into Now 🌱
+*   **[开源贡献/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
+    *   一个强大的 API 代理服务，可将 Gemini CLI、Antigravity、Qwen Code、Kiro 等仅限客户端使用的大模型能力，封装为本地 OpenAI 兼容接口，并支持账号池管理、智能轮询、自动故障转移与系统提示词管理。
+*   **[开源贡献/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
+    *   OpenClaw 中国 IM 插件整合版 Docker 镜像，预装并配置飞书、钉钉、QQ 机器人、企业微信等主流中国 IM 平台插件，可快速部署支持多平台的 AI 机器人网关。
+*   更多项目细节请见我的 [GitHub](https://github.com/justlovemaki)。
 
-Right now, I'm totally geeking out over LLM applications and website SEO. I'm diving deep, learning the ropes, and getting my hands dirty with some real-world practice! 🚀
+#### 🌱 当前探索
+
+对 LLM应用、网站SEO 抱有浓厚兴趣，并正在积极投入学习与实践。
